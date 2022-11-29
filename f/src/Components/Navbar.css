@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+.logo img{
+    width: 40px;
+    height:40px;
+}
+.navbar{
+    background: rgb(249,249,249);
+    background: linear-gradient(100deg, rgba(249,249,249,1) 0%, rgba(224,20,10,0.9864320728291317) 56%);
+    height:60px;
+
+}
+.link NavLink{
+    color:rgb(238, 238, 238) !important;
+    font-family: 'Merriweather', serif !important;
+}
+
+.nav-link{
+    color:rgb(238, 238, 238) !important;
+    font-family: 'Merriweather', serif !important;
+}
+.nav-link:hover{
+    color:rgb(116, 8, 8) !important;
+}
+@media only screen and (max-width: 600px) {
+    .navbar {
+      height:auto;
+    }
+  }

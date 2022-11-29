@@ -1,0 +1,43 @@
+.bdr{
+    height: 90vh;
+    background: rgb(231,219,219);
+background: linear-gradient(126deg, rgba(231,219,219,1) 0%, rgba(204,23,23,1) 35%, rgba(255,255,255,1) 100%);
+}
+.bdr1{
+    background: rgb(231,219,219);
+    border-radius: 30px;
+}
+.bdr1 img{
+    border-radius: 30px;
+}
+.row{
+    border-radius: 30px;
+    box-shadow: 12px,23px,10px, red;
+    
+}
+.login h2{
+    padding:10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.inp{
+    height:3rem;
+    width:20rem;
+    border: none;
+    border-radius:30px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.btn1{
+    height:3rem;
+    width:20rem;
+    border: none;
+    border-radius:30px;
+    background-color: brown;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

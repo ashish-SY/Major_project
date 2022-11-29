@@ -1,0 +1,59 @@
+/* .App{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}*/
+/* body{
+    background: url('./bg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+} */
+ .reg-form h1{
+    font-size: 40px;
+    font-weight:bold;
+    color: rgb(16, 95, 199);
+    margin-top:5%;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+}
+.reg-form p{
+    font-size: 20px;
+}
+.reg-form label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.reg-form{
+    
+    opacity: 0.95;
+    background: rgb(12, 12, 12);
+    color: white;
+    width:50em;
+    margin: 0 auto;
+    position:relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 0.188em rgb(107, 1, 1);
+} 
+u{
+    cursor: pointer;
+}
+.btn-default{
+    background-color: rgb(107, 1, 1);
+    color: white;
+    gap: 10px;
+    font-size: 20px;
+    margin: 10px;
+    width: 50%;
+}
+.btn-default:hover{
+    background-color: rgb(143, 62, 62);
+    color: white;
+}

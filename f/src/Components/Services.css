@@ -1,0 +1,24 @@
+.card1 img{
+    width:100px;
+    margin-top: 30px;
+    align-items: center;
+    margin: auto;
+    border:2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 2px 1px 2px 1px rgb(218, 127, 24) ;
+    transition: 1000ms;
+}
+.card1{
+    border: none !important;
+    padding:10px;
+    margin-top: 20px;
+    text-align: center;
+}
+.services{
+    margin: auto;
+    text-align: center;
+    padding: 5%;
+}
+.card1 img:hover{
+     width: 80px;
+}
